@@ -1,0 +1,5 @@
+# Module artsaitest
+# RPC service class, partial path of RPC policy file
+com.artsai.project.client.TableService, 232683217362E6B085FDBCDA095DCF35.gwt.rpc
+com.artsai.project.client.DiagramService, 6AC7CFE79FB2D9826B5856726639D82D.gwt.rpc
+com.artsai.project.client.GreetingService, D674D8138DCA01F50D0232BD1AA04978.gwt.rpc

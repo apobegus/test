@@ -1,0 +1,2 @@
+serviceClass: com.artsai.project.client.TableService
+path: 232683217362E6B085FDBCDA095DCF35.gwt.rpc

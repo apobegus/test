@@ -1,0 +1,2 @@
+serviceClass: com.artsai.project.client.GreetingService
+path: D674D8138DCA01F50D0232BD1AA04978.gwt.rpc

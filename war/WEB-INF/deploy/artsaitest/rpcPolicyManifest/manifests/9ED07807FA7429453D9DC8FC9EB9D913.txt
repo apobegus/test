@@ -1,0 +1,2 @@
+serviceClass: com.artsai.project.client.DiagramService
+path: 6AC7CFE79FB2D9826B5856726639D82D.gwt.rpc
